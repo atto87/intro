@@ -2,6 +2,5 @@ gitの練習
 
 基本ワークフローを学びます
 
-test2
-
-test3
+git add 
+git commit
